@@ -21,8 +21,8 @@ Siga o passo a passo abaixo para configurar o banco de dados e iniciar o servido
 
 ### 1. Clone o repositório
 ```bash
-git clone [https://github.com/CarlosCF0503/SEU_REPOSITORIO_LARAVEL.git](https://github.com/CarlosCF0503/SEU_REPOSITORIO_LARAVEL.git)
-cd SEU_REPOSITORIO_LARAVEL
+git clone https://github.com/CarlosCF0503/Sistema-CRUD-de-Usuario-com-Perfil---laravel.git
+cd Sistema-CRUD-de-Usuario-com-Perfil---laravel
 ```
 
 ### 2. Instale as dependências do Laravel
